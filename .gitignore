@@ -1,0 +1,41 @@
+# Python bytecode
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment folder
+venv/
+env/
+.venv/
+
+# IDE / editor specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python test / coverage reports
+.coverage
+*.coveragerc
+nosetests.xml
+coverage.xml
+*.hypothesis/
+
+# PyInstaller
+*.spec
+
+# MyPy
+.mypy_cache/
+
+# Python virtual environment files
+Pipfile.lock

@@ -1,0 +1,3 @@
+{"timestamp": "2025-09-09T10:11:43.037586Z", "step": "start", "success": true, "message": "Launching Playwright automation", "extra": {}}
+{"timestamp": "2025-09-09T10:11:46.151423Z", "step": "goto", "success": true, "message": "Navigating to signup.live.com", "extra": {}}
+{"timestamp": "2025-09-09T10:11:57.252226Z", "step": "protection", "success": false, "message": "Protection detected url=https://signup.live.com/?lic=1", "extra": {}}
