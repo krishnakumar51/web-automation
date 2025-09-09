@@ -1,0 +1,5 @@
+2025/09/09-22:38:21.213 1e54 Creating DB D:\SearchLook\web-automation\app\storage\5c1bec79-2b36-45d0-b7ea-4ae9ee58ffae_profile\Default\EdgeCoupons/coupons_data.db since it was missing.
+2025/09/09-22:38:21.227 1e54 Reusing MANIFEST D:\SearchLook\web-automation\app\storage\5c1bec79-2b36-45d0-b7ea-4ae9ee58ffae_profile\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2025/09/09-22:38:21.665 446c Level-0 table #5: started
+2025/09/09-22:38:21.678 446c Level-0 table #5: 672117 bytes OK
+2025/09/09-22:38:21.683 446c Delete type=0 #3

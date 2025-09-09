@@ -1,0 +1,6 @@
+{"timestamp": "2025-09-09T17:08:08.686539Z", "step": "job_start", "success": true, "message": "Starting signup for hegg968@outlook.com", "extra": {}}
+{"timestamp": "2025-09-09T17:08:08.687517Z", "step": "start", "success": true, "message": "Launching Playwright automation with visible interactions", "extra": {}}
+{"timestamp": "2025-09-09T17:08:08.689522Z", "step": "try_edge", "success": true, "message": "Attempting to launch Microsoft Edge...", "extra": {}}
+{"timestamp": "2025-09-09T17:08:11.536323Z", "step": "goto", "success": true, "message": "Navigating to signup.live.com...", "extra": {}}
+{"timestamp": "2025-09-09T17:08:32.133408Z", "step": "page_loaded", "success": true, "message": "Page loaded. Title: Create your Microsoft account", "extra": {}}
+{"timestamp": "2025-09-09T17:08:34.136296Z", "step": "protection", "success": false, "message": "Protection detected url=https://signup.live.com/?lic=1", "extra": {}}
